@@ -1,4 +1,4 @@
-# [Documentation Portfolio](https://github.com/Sayanta66/portfolio-page/)
+# [Documentation Portfolio](https://github.com/Sayanta66/Documentation-Portfolio/)
 
 Hi, I am [Sayanta Banerjee](https://twitter.com/DevSayanta). This page contains a proof of my work on documentation and a non-comprehensive list of articles proudly written by me. Find my certifications [here](https://www.linkedin.com/in/sayanta-banerjee/details/certifications/). Badges at Credly can be found [here](https://www.credly.com/users/sayanta-banerjee).
 
