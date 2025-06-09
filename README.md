@@ -8,7 +8,7 @@ The Civo Kubernetes and Cloud-native glossary is out now. Check it out [here](ht
 
 * **Python API** - Generated mock API documentation for the Python Math API. Check it out from [Sphinx-Mock-API-Documentation](https://github.com/Sayanta66/Sphinx-Mock-API-Documentation).
 * **REST API** - Documentation for a mock weather API (WIP).
-* Documented APIs for [Nirmata](https://docs.nirmata.io/docs/restapi/), [Syself](https://syself.com/docs/caph/reference/hetzner-cluster), and Keysight products (API docs are not available publicly).
+* Documented REST and Python APIs for [Nirmata](https://docs.nirmata.io/docs/restapi/), [Syself](https://syself.com/docs/caph/reference/hetzner-cluster), and Keysight products (API docs are not available publicly).
 
 ## Product Documentation
 
