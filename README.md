@@ -75,3 +75,5 @@ The latest blog posts and articles are listed below:
 * Migrating your database to Civo: A developer's guide
 * Integrating Weavy with a simple application
 * Laundry list of AI Coding Copilots
+
+[Drop me a line](https://www.linkedin.com/in/sayanta-banerjee/) to catch up with me, if you want me to write for your organization or publication.
