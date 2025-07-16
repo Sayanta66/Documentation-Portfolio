@@ -2,8 +2,6 @@
 
 Hi, I am [Sayanta Banerjee](https://twitter.com/DevSayanta). This page contains a proof of my work on documentation and a non-comprehensive list of articles proudly written by me. Find my certifications [here](https://www.linkedin.com/in/sayanta-banerjee/details/certifications/). Badges at Credly can be found [here](https://www.credly.com/users/sayanta-banerjee).
 
-The Civo Kubernetes and Cloud-native glossary is out now. Check it out [here](https://www.civo.com/blog/kubernetes-and-cloud-native-az-guide).
-
 ## API Documentation
 
 * **Python API** - Generated mock API documentation for the Python Math API. Check it out from [Sphinx-Mock-API-Documentation](https://github.com/Sayanta66/Sphinx-Mock-API-Documentation).
@@ -12,7 +10,7 @@ The Civo Kubernetes and Cloud-native glossary is out now. Check it out [here](ht
 
 ## Product Documentation
 
-Below are some of the product documentations, where I have played a major role in contributing to the existing documentation and overhauling the entire documentation.
+Below are some of the product documentation, where I have played a major role in contributing to the existing documentation and overhauling the entire documentation.
 
 * [SAWO Labs Documentation](https://github.com/Sawo-Community/Sawo-Docs)
 * [Keysight ADS Documentation](https://docs.keysight.com/display/support/Submit+an+EDA+Support+Request) (**P.S.** - This doc is not publicly available as it is only given to active Keysight ADS users.)
@@ -21,6 +19,10 @@ Below are some of the product documentations, where I have played a major role i
 * [Mattermost Documentation](https://docs.mattermost.com/)
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 * [Civo Documentation](https://www.civo.com/docs)
+
+## Glossaries
+
+The Civo Kubernetes and Cloud-native glossary is out now. Check it out [here](https://www.civo.com/blog/kubernetes-and-cloud-native-az-guide).
 
 ## E-Books
 
