@@ -36,13 +36,14 @@ Coming Soon......
 
 The latest blog posts and articles are listed below:
 
+* [Unpacking LangChain: All You Need to Know to Get Started](https://www.devshorts.in/p/unpacking-langchain-all-you-need)
 * [The ultimate crash course on OpenAI APIs: A beginner's handbook](https://www.devshorts.in/p/the-ultimate-crash-course-on-openai)
 * [LangChain 101: An in-depth understanding of AI development with the framework](https://hackmd.io/@IQcZDnwwQhOWBae2DH1LFQ/HyFgR4xYA)
 * [8 steps to create a successful cloud strategy / Signoz](https://signoz.io/blog/cloud-strategy/)
 * [Kubernetes 101: A comprehensive guide](https://www.civo.com/blog/kubernetes-comprehensive-guide)
 * [Kubernetes vs Docker: A comprehensive comparison / Civo](https://www.civo.com/blog/kubernetes-vs-docker-a-comprehensive-comparison)
 * [Choosing the right cloud provider / Civo](https://www.civo.com/blog/choosing-right-cloud-provider)
-* [Leveraging WebAssembly to for improved performance in Kubernetes / Civo](https://www.civo.com/blog/leveraging-webassembly-improved-performance-kubernetes)
+* [Leveraging WebAssembly for improved performance in Kubernetes / Civo](https://www.civo.com/blog/leveraging-webassembly-improved-performance-kubernetes)
 * [Networking 101 - IP Packets explained (Co-Written with Kai Hoffman) / Civo](https://www.civo.com/learn/ip-packets)
 * [Authenticated PDF to Doc Converter with Auth0 and Cloudinary](https://docs.google.com/document/d/1WCCXB6N41wSGnieiq_pdezkWzSV6vyaX-ly8DNkkl3s/edit?tab=t.0#heading=h.vkl5dak63jix)
 * [Data modelling with Statype / Statype](https://docs.google.com/document/d/1MQXF3siUP59j-RmaMQSmVQVZoRsU-6KbubZX_C4IKcI/edit#)
