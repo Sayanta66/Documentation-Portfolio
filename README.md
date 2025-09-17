@@ -36,6 +36,7 @@ Coming Soon......
 
 The latest blog posts and articles are listed below:
 
+* [Top API Design Trends to Watch Out for 2025](https://docs.google.com/document/d/1kchtWkwrcnxLK9OG8y8khmtrHbGfriWw_P_u8A6d5ts/edit?tab=t.0#heading=h.v9cola9ih0ei)
 * [Unpacking LangChain: All You Need to Know to Get Started](https://www.devshorts.in/p/unpacking-langchain-all-you-need)
 * [The ultimate crash course on OpenAI APIs: A beginner's handbook](https://www.devshorts.in/p/the-ultimate-crash-course-on-openai)
 * [LangChain 101: An in-depth understanding of AI development with the framework](https://hackmd.io/@IQcZDnwwQhOWBae2DH1LFQ/HyFgR4xYA)
