@@ -5,7 +5,7 @@ Hi, I am [Sayanta Banerjee](https://twitter.com/DevSayanta). This page contains 
 ## API Documentation
 
 * **Python API** - Generated mock API documentation for the Python Math API. Check it out from [Sphinx-Mock-API-Documentation](https://github.com/Sayanta66/Sphinx-Mock-API-Documentation).
-* **REST API** - Documentation for a mock weather API (WIP).
+* **REST API** - Documentation for a [mock weather API](https://glen-pheasant-f5d.notion.site/Mock-Weather-API-Documentation-27cad35ff1a28031baecf086dcf3320e).
 * Documented REST and Python APIs for [Nirmata](https://docs.nirmata.io/docs/restapi/), [Syself](https://syself.com/docs/caph/reference/hetzner-cluster), and Keysight products (API docs are not available publicly).
 
 ## Product Documentation
