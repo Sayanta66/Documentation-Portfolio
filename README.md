@@ -22,7 +22,7 @@ Below are some of the product documentation, where I have played a major role in
 
 ## Glossaries
 
-The Civo Kubernetes and Cloud-native glossary is out now. Check it from [Kubernetes and Cloud-Native A-Z Guide](https://www.civo.com/blog/kubernetes-and-cloud-native-az-guide).
+The Civo Kubernetes and Cloud-native glossary is out now. Check it out from [Kubernetes and Cloud-Native A-Z Guide](https://www.civo.com/blog/kubernetes-and-cloud-native-az-guide).
 
 ## E-Books
 
