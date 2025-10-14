@@ -20,18 +20,6 @@ Below are some of the product documentation, where I have played a major role in
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 * [Civo Documentation](https://www.civo.com/docs)
 
-## Glossaries
-
-The Civo Kubernetes and Cloud-native glossary is out now. Check it out from [Kubernetes and Cloud-Native A-Z Guide](https://www.civo.com/blog/kubernetes-and-cloud-native-az-guide).
-
-## E-Books
-
-Coming Soon......
-
-## Newsletters
-
-* Written **52 Dev-Catch-Up issues** for [DevShorts](https://www.devshorts.in/archive?sort=new). 
-
 ## Articles
 
 The latest blog posts and articles are listed below:
@@ -75,6 +63,27 @@ The latest blog posts and articles are listed below:
 * [What's new in Kubernetes v1.25? / In-depth analysis - Civo](https://hackmd.io/MofAUul3RhWyvMon4tzgeg)
 * [All you need to know about Internal Developer Platforms and architecting one with Backstage and Humanitec / Humanitec](https://docs.google.com/document/d/1MnJBgcBwsMaz3YoX77L8flNtWvruZrBifMAXOX8LUM4/edit)
 * [Kubernetes interview questions for beginners / Civo](https://www.civo.com/blog/kubernetes-questions-for-beginners)
+
+## Glossaries
+
+The Civo Kubernetes and Cloud-native glossary is out now. Check it out from [Kubernetes and Cloud-Native A-Z Guide](https://www.civo.com/blog/kubernetes-and-cloud-native-az-guide).
+
+## Newsletters
+
+* Written **52 Dev-Catch-Up issues** for [DevShorts](https://www.devshorts.in/archive?sort=new).
+
+## Content Strategy and Information Architecture
+
+**Case Study**: To create the information architecture and content strategy for a fictional company named Protekt and use a static site generator to show the created documentation structure.
+
+**Work Done**: I created the **documentation structure** in accordance with the **developer journey** and used **Mkdocs with Material theme** as the static site generator. Since, this is a documentation which is catering mostly to developers, I structured the documentation in lieu of that. Although, some non-technical product managers can also access the documentation. Hence, the idea of putting references and concepts took place. I have added glimpses **on how a person can navigate through the documentation**. Alongside, I have mock-documented the introductory prose and a feature tutorial that shows the usage of Protekt's feature-specific SDK with multiple coding languages and frameworks. Furthermore, I **hosted the documentation** with the help of **GitHub workflows**.
+
+**Protekt Documentation Plan**: Check out [Protekt Documentation Plan](https://docs.google.com/presentation/d/1090FK7MniRrgunvVw8I8aoFK6zLvi871oTa3HNyKYcs/edit?slide=id.p#slide=id.p).
+**Protekt Documentation**: Check out [Protekt Documentation](https://sayanta66.github.io/Mkdocs-hackmamba-assignment/).
+
+## E-Books
+
+Coming Soon......
 
 ## Upcoming articles:
 
