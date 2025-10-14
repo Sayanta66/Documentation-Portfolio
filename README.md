@@ -78,8 +78,8 @@ The Civo Kubernetes and Cloud-native glossary is out now. Check it out from [Kub
 
 **Work Done**: I created the **documentation structure** in accordance with the **developer journey** and used **Mkdocs with Material theme** as the static site generator. Since, this is a documentation which is catering mostly to developers, I structured the documentation in lieu of that. Although, some non-technical product managers can also access the documentation. Hence, the idea of putting references and concepts took place. I have added glimpses **on how a person can navigate through the documentation**. Alongside, I have mock-documented the introductory prose and a feature tutorial that shows the usage of Protekt's feature-specific SDK with multiple coding languages and frameworks. Furthermore, I **hosted the documentation** with the help of **GitHub workflows**.
 
-**Protekt Documentation Plan**: Check out [Protekt Documentation Plan](https://docs.google.com/presentation/d/1090FK7MniRrgunvVw8I8aoFK6zLvi871oTa3HNyKYcs/edit?slide=id.p#slide=id.p).
-**Protekt Documentation**: Check out [Protekt Documentation](https://sayanta66.github.io/Mkdocs-hackmamba-assignment/).
+* **Protekt Documentation Plan**: Check out [Protekt Documentation Plan](https://docs.google.com/presentation/d/1090FK7MniRrgunvVw8I8aoFK6zLvi871oTa3HNyKYcs/edit?slide=id.p#slide=id.p).
+* **Protekt Documentation**: Check out [Protekt Documentation](https://sayanta66.github.io/Mkdocs-hackmamba-assignment/).
 
 ## E-Books
 
