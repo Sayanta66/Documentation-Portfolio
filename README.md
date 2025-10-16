@@ -83,10 +83,10 @@ The Civo Kubernetes and Cloud-native glossary is out now. Check it out from [Kub
 
 ## Client Testimonials
 
-![](/Assets/Screenshot 2025-10-16 145449.png)
-![](/Assets/Screenshot 2025-10-16 145459.png)
-![](/Assets/Screenshot 2025-10-16 145511.png)
-![](/Assets/Screenshot 2025-10-16 145521.png)
+![](./Assets/Screenshot 2025-10-16 145449.png)
+![](./Assets/Screenshot 2025-10-16 145459.png)
+![](./Assets/Screenshot 2025-10-16 145511.png)
+![](./Assets/Screenshot 2025-10-16 145521.png)
 
 ## E-Books
 
