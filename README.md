@@ -81,6 +81,13 @@ The Civo Kubernetes and Cloud-native glossary is out now. Check it out from [Kub
 * **Protekt Documentation Plan**: Check out [Protekt Documentation Plan](https://docs.google.com/presentation/d/1090FK7MniRrgunvVw8I8aoFK6zLvi871oTa3HNyKYcs/edit?slide=id.p#slide=id.p).
 * **Protekt Documentation**: Check out [Protekt Documentation](https://sayanta66.github.io/Mkdocs-hackmamba-assignment/).
 
+## Client Testimonials
+
+![](\Assets\Screenshot 2025-10-16 145449.png)
+![](\Assets\Screenshot 2025-10-16 145459.png)
+![](\Assets\Screenshot 2025-10-16 145511.png)
+![](\Assets\Screenshot 2025-10-16 145521.png)
+
 ## E-Books
 
 Coming Soon......
